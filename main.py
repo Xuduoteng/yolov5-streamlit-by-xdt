@@ -2,7 +2,7 @@ import streamlit as st
 
 if __name__ == '__main__':
     st.title('Duoteng Xu’s Homepage')
-    st.image("./cv.png")
+    st.image("./cv.jpg")
 
 # from io import StringIO
 # from pathlib import Path
