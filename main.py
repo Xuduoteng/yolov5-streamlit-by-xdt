@@ -2,8 +2,7 @@ import streamlit as st
 
 if __name__ == '__main__':
     st.title('YOLOv5 Streamlit App')
-    st.image("cv.png")
-    st.balloons()
+    st.image("./cv.png")
 
 # from io import StringIO
 # from pathlib import Path
