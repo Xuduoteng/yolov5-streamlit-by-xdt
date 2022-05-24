@@ -1,6 +1,6 @@
 # pip install -r requirements.txt
 
-streamlit
+streamlit>=0.77.0
 
 # base ----------------------------------------
 matplotlib>=3.2.2
