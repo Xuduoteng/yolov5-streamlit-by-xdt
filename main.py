@@ -2,7 +2,7 @@ import streamlit as st
 
 if __name__ == '__main__':
     st.title('Duoteng Xu’s Homepage')
-    st.image("./cv.jpg")
+    st.image("./cv.jpg",use_column_width=True)
     #st.image("./cv1.jpg")
 
 # from io import StringIO
